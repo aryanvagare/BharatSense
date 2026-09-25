@@ -1,0 +1,9 @@
+# .gitignore is required to tell Git which files and folders should not be tracked or committed.
+# It helps to:
+# Keep sensitive files like .env and API keys private.
+# Exclude unnecessary files such as logs, caches, and build files.
+# Avoid committing dependencies like node_modules/.
+# Keep the repository clean and lightweight.
+# Prevent machine- or IDE-specific files from being shared.
+# In short: .gitignore keeps the Git repository clean, secure, and focused only on necessary project files.
+
