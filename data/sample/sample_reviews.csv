@@ -1,0 +1,9 @@
+text,language,sentiment,emotion,district
+"The roads in Indore are very good.",English,Positive,Happy,Indore
+"Indore ka traffic bahut kharab hai yaar",Hinglish,Negative,Anger,Indore
+"इंदौर का ट्रैफिक बहुत खराब है।",Hindi,Negative,Anger,Indore
+"Traffic bahut kharab hai but food excellent hai.",Hinglish,Mixed,Neutral,Indore
+"Bhopal mein safai bahut achhi hai.",Hinglish,Positive,Happy,Bhopal
+"I love the new metro in Bhopal!",English,Positive,Happy,Bhopal
+"Ujjain ka mausam bahut suhana hai.",Hinglish,Positive,Happy,Ujjain
+"Gwalior mein bijli ki samasya hai.",Hinglish,Negative,Sad,Gwalior
